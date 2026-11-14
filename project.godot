@@ -1,0 +1,15 @@
+; Engine configuration file.
+; Ebonefire starter project — Godot 4.x.
+; See https://docs.godotengine.org/en/stable/tutorials/editor/project_manager.html
+
+config_version=5
+
+[application]
+
+config/name="Ebonefire"
+run/main_scene="res://scenes/main.tscn"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
